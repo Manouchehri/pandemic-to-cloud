@@ -4,3 +4,5 @@
 | ------------- |:-------------:|
 | a vaccine     | Kubernetes    |
 | economy       | blockchain    |
+| coronavirus   | cloud         |  
+| virus         | AI            |
